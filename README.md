@@ -1,16 +1,27 @@
 ## Hi there 👋
 
-<!--
-**Pablo-Aznar/Pablo-Aznar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning, visualización de datos e implementación de aplicaciones web con Streamlit. Formación universitaria en Ingeniería Técnica de Telecomunicaciones. Orientado al aprendizaje continuo, resolución de problemas y trabajo en equipo.
 
-Here are some ideas to get you started:
+Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍Python
+
+🔢 Pandas
+
+📊 NumPy
+
+💾 SQL
+
+🤖 TensorFlow
+
+🔍 Scikit-Learn
+
+📉 Matplotlib
+
+📊 Seaborn
+
+🖥️ Streamlit
+
+🧰 GitHub
+
+🧑‍💻 Git
