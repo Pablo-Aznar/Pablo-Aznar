@@ -41,7 +41,7 @@ Sistema inteligente de localización de accidentes en Barcelona:
 - Análisis exploratorio (EDA) para identificar patrones y preparar dataset
 - Preprocesamiento con K-Means, entrenamiento y optimización con LightGBM
 - Visualización de datos con Matplotlib, Seaborn y PLotly
-- Implementación de aplicación web con Streamlit
+- Implementación de aplicación web con Streamlit🔹
 
   [🔹Repositorio](https://github.com/Pablo-Aznar/sp-ml-17-final-project-g3-pablo)  
   [🔹Presentación](https://prezi.com/view/OISphTsQ04jOZ6KqqiFM/?referral_token=UbcB3jlnB3FN)  
