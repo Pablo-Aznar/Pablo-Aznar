@@ -5,7 +5,7 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 ## 🚀 Tecnologías  
 
 
-*🐍Python
+\*🐍Python
 
 🔢 Pandas
 
