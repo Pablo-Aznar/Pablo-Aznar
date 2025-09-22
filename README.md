@@ -27,7 +27,7 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 - 🧑‍💻 Git
 
-🚗 Proyectos
+## 🚗 Proyectos
 
 Sistema inteligente de localización de accidentes en Barcelona:
 - Extracción de datos de accidentes desde Open-Data BCN
@@ -38,6 +38,6 @@ Sistema inteligente de localización de accidentes en Barcelona:
 - Visualización de datos con Matplotlib, Seaborn y PLotly
 - Implementación de aplicación web con Streamlit
 
-  [Repositorio] (https://github.com/Pablo-Aznar/sp-ml-17-final-project-g3-pablo)
-  [Presentación] (https://prezi.com/view/OISphTsQ04jOZ6KqqiFM/?referral_token=UbcB3jlnB3FN)
-  [Aplicación web] (https://accident-predictor-app-pablo-aznar.streamlit.app/)
+  [Repositorio](https://github.com/Pablo-Aznar/sp-ml-17-final-project-g3-pablo)
+  [Presentación](https://prezi.com/view/OISphTsQ04jOZ6KqqiFM/?referral_token=UbcB3jlnB3FN)
+  [Aplicación web](https://accident-predictor-app-pablo-aznar.streamlit.app/)
