@@ -27,6 +27,11 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 - 🧑‍💻 Git
 
+🎓 Education 
+
+- Ingeniería Técnica en Telecomunicaciones, Sonido e Imagen (Universidad de Alicante)
+- Data Science and Machine Learning (4Geeks Academy España)
+
 ## 🚗 Proyectos
 
 Sistema inteligente de localización de accidentes en Barcelona:
