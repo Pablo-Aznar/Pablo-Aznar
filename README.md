@@ -5,24 +5,24 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 ## 🚀 Tecnologías  
 
 
-\* 🐍Python
+- 🐍Python
 
 - 🔢 Pandas
 
 + 📊 NumPy
 
-💾 SQL
+- 💾 SQL
 
-🤖 TensorFlow
+- 🤖 TensorFlow
 
-🔍 Scikit-Learn
+- 🔍 Scikit-Learn
 
-📉 Matplotlib
+- 📉 Matplotlib
 
-📊 Seaborn
+- 📊 Seaborn
 
-🖥️ Streamlit
+- 🖥️ Streamlit
 
-🧰 GitHub
+- 🧰 GitHub
 
-🧑‍💻 Git
+- 🧑‍💻 Git
