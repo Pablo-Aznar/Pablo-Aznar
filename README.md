@@ -13,7 +13,7 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 - 💾 SQL
 
-- 🤖 TensorFlow
+- 🤖 Keras
 
 - 🔍 Scikit-Learn
 
