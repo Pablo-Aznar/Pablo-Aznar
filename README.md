@@ -9,7 +9,7 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 - 🔢 Pandas
 
-+ 📊 NumPy
+- 📊 NumPy
 
 - 💾 SQL
 
@@ -23,11 +23,9 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 - 🖥️ Streamlit
 
-- 🧰 GitHub
+- 🧰   Git / GitHub
 
-- 🧑‍💻 Git
-
-## 🎓 Education 
+  ## 🎓 Education 
 
 - Ingeniería Técnica en Telecomunicaciones, Sonido e Imagen (Universidad de Alicante)
 - Data Science and Machine Learning (4Geeks Academy España)
