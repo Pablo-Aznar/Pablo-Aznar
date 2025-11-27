@@ -32,7 +32,11 @@ Científico de datos con habilidades de Python, Pandas, NumPy, Machine Learning,
 
 ## 🚗 Proyectos
 
-Sistema inteligente de localización de accidentes en Barcelona
+**ML Autonomous Agent**
+🔹[Repositorio](https://github.com/Pablo-Aznar/sp-ml-17-final-project-g3-pablo)
+🔹[Aplicación web](https://accident-predictor-app-pablo-aznar.streamlit.app/)
+
+**Sistema inteligente de localización de accidentes en Barcelona**
 🔹[Repositorio](https://github.com/Pablo-Aznar/sp-ml-17-final-project-g3-pablo)
 🔹[Presentación](https://prezi.com/view/OISphTsQ04jOZ6KqqiFM/?referral_token=UbcB3jlnB3FN)
 🔹[Aplicación web](https://accident-predictor-app-pablo-aznar.streamlit.app/)
